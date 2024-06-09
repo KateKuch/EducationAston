@@ -4,6 +4,6 @@ public class Example {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello from initial commit!");
+        System.out.println("Hello from dev branch!");
     }
 }
